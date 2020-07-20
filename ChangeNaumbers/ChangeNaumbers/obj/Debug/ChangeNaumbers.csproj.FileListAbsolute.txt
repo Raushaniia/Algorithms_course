@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\bin\Debug\ChangeNaumbers.exe.config
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\bin\Debug\ChangeNaumbers.exe
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\bin\Debug\ChangeNaumbers.pdb
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\obj\Debug\ChangeNaumbers.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\obj\Debug\ChangeNaumbers.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\obj\Debug\ChangeNaumbers.exe
+C:\Users\Raushaniia\source\repos\ChangeNaumbers\ChangeNaumbers\obj\Debug\ChangeNaumbers.pdb

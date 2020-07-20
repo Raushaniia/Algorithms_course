@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\bin\Debug\Coridor.exe.config
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\bin\Debug\Coridor.exe
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\bin\Debug\Coridor.pdb
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\obj\Debug\Coridor.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\obj\Debug\Coridor.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\obj\Debug\Coridor.exe
+C:\Users\Raushaniia\source\repos\Coridor\Coridor\obj\Debug\Coridor.pdb

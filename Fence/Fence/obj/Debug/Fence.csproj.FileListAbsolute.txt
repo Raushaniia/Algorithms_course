@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\Fence\Fence\bin\Debug\Fence.exe.config
+C:\Users\Raushaniia\source\repos\Fence\Fence\bin\Debug\Fence.exe
+C:\Users\Raushaniia\source\repos\Fence\Fence\bin\Debug\Fence.pdb
+C:\Users\Raushaniia\source\repos\Fence\Fence\obj\Debug\Fence.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\Fence\Fence\obj\Debug\Fence.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\Fence\Fence\obj\Debug\Fence.exe
+C:\Users\Raushaniia\source\repos\Fence\Fence\obj\Debug\Fence.pdb

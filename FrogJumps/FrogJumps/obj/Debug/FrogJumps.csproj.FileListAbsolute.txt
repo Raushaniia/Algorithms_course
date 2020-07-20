@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\bin\Debug\FrogJumps.exe.config
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\bin\Debug\FrogJumps.exe
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\bin\Debug\FrogJumps.pdb
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\obj\Debug\FrogJumps.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\obj\Debug\FrogJumps.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\obj\Debug\FrogJumps.exe
+C:\Users\Raushaniia\source\repos\FrogJumps\FrogJumps\obj\Debug\FrogJumps.pdb

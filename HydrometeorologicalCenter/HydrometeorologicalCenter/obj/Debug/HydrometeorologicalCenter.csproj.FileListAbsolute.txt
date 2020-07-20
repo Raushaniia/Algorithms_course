@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\bin\Debug\HydrometeorologicalCenter.exe.config
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\bin\Debug\HydrometeorologicalCenter.exe
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\bin\Debug\HydrometeorologicalCenter.pdb
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\obj\Debug\HydrometeorologicalCenter.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\obj\Debug\HydrometeorologicalCenter.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\obj\Debug\HydrometeorologicalCenter.exe
+C:\Users\Raushaniia\source\repos\HydrometeorologicalCenter\HydrometeorologicalCenter\obj\Debug\HydrometeorologicalCenter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\bin\Debug\UnluckyTicket.exe.config
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\bin\Debug\UnluckyTicket.exe
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\bin\Debug\UnluckyTicket.pdb
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\obj\Debug\UnluckyTicket.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\obj\Debug\UnluckyTicket.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\obj\Debug\UnluckyTicket.exe
+C:\Users\Raushaniia\source\repos\UnluckyTicket\UnluckyTicket\obj\Debug\UnluckyTicket.pdb

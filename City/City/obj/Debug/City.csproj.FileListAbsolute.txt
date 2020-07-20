@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\City\City\obj\Debug\City.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\City\City\obj\Debug\City.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\City\City\bin\Debug\City.exe.config
+C:\Users\Raushaniia\source\repos\City\City\bin\Debug\City.exe
+C:\Users\Raushaniia\source\repos\City\City\bin\Debug\City.pdb
+C:\Users\Raushaniia\source\repos\City\City\obj\Debug\City.exe
+C:\Users\Raushaniia\source\repos\City\City\obj\Debug\City.pdb

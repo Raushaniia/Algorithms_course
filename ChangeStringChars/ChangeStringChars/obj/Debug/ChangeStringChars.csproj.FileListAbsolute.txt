@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\bin\Debug\ChangeStringChars.exe.config
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\bin\Debug\ChangeStringChars.exe
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\bin\Debug\ChangeStringChars.pdb
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\obj\Debug\ChangeStringChars.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\obj\Debug\ChangeStringChars.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\obj\Debug\ChangeStringChars.exe
+C:\Users\Raushaniia\source\repos\ChangeStringChars\ChangeStringChars\obj\Debug\ChangeStringChars.pdb

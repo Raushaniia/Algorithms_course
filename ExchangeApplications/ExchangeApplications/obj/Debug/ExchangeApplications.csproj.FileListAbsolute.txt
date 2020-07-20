@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\bin\Debug\ExchangeApplications.exe.config
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\bin\Debug\ExchangeApplications.exe
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\bin\Debug\ExchangeApplications.pdb
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\obj\Debug\ExchangeApplications.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\obj\Debug\ExchangeApplications.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\obj\Debug\ExchangeApplications.exe
+C:\Users\Raushaniia\source\repos\ExchangeApplications\ExchangeApplications\obj\Debug\ExchangeApplications.pdb

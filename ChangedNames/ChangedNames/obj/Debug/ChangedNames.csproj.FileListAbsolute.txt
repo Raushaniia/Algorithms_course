@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\bin\Debug\ChangedNames.exe.config
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\bin\Debug\ChangedNames.exe
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\bin\Debug\ChangedNames.pdb
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\obj\Debug\ChangedNames.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\obj\Debug\ChangedNames.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\obj\Debug\ChangedNames.exe
+C:\Users\Raushaniia\source\repos\ChangedNames\ChangedNames\obj\Debug\ChangedNames.pdb

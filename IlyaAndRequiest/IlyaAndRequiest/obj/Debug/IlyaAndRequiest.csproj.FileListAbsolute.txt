@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\bin\Debug\IlyaAndRequiest.exe.config
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\bin\Debug\IlyaAndRequiest.exe
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\bin\Debug\IlyaAndRequiest.pdb
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\obj\Debug\IlyaAndRequiest.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\obj\Debug\IlyaAndRequiest.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\obj\Debug\IlyaAndRequiest.exe
+C:\Users\Raushaniia\source\repos\IlyaAndRequiest\IlyaAndRequiest\obj\Debug\IlyaAndRequiest.pdb

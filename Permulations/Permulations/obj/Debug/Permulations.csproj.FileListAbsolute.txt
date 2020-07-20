@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\bin\Debug\Permulations.exe.config
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\bin\Debug\Permulations.exe
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\bin\Debug\Permulations.pdb
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\obj\Debug\Permulations.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\obj\Debug\Permulations.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\obj\Debug\Permulations.exe
+C:\Users\Raushaniia\source\repos\Permulations\Permulations\obj\Debug\Permulations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\bin\Debug\Get3SumBestTarget.exe.config
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\bin\Debug\Get3SumBestTarget.exe
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\bin\Debug\Get3SumBestTarget.pdb
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\obj\Debug\Get3SumBestTarget.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\obj\Debug\Get3SumBestTarget.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\obj\Debug\Get3SumBestTarget.exe
+C:\Users\Raushaniia\source\repos\Get3SumBestTarget\Get3SumBestTarget\obj\Debug\Get3SumBestTarget.pdb

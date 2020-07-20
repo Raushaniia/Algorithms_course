@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\bin\Debug\CreateScedule.exe.config
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\bin\Debug\CreateScedule.exe
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\bin\Debug\CreateScedule.pdb
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\obj\Debug\CreateScedule.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\obj\Debug\CreateScedule.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\obj\Debug\CreateScedule.exe
+C:\Users\Raushaniia\source\repos\CreateScedule\CreateScedule\obj\Debug\CreateScedule.pdb

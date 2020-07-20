@@ -1,0 +1,7 @@
+C:\Users\Raushaniia\source\repos\Repost\Repost\bin\Debug\Repost.exe.config
+C:\Users\Raushaniia\source\repos\Repost\Repost\bin\Debug\Repost.exe
+C:\Users\Raushaniia\source\repos\Repost\Repost\bin\Debug\Repost.pdb
+C:\Users\Raushaniia\source\repos\Repost\Repost\obj\Debug\Repost.csprojAssemblyReference.cache
+C:\Users\Raushaniia\source\repos\Repost\Repost\obj\Debug\Repost.csproj.CoreCompileInputs.cache
+C:\Users\Raushaniia\source\repos\Repost\Repost\obj\Debug\Repost.exe
+C:\Users\Raushaniia\source\repos\Repost\Repost\obj\Debug\Repost.pdb
